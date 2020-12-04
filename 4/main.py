@@ -62,8 +62,5 @@ for passport in rows:
     field_list.sort()
     print(field_list)
     if (field_list == required_fields) or (field_list == ro_fields):
-        count_valid += 1
-    
-
-
+        count_valid += 1    
 print(count_valid)
