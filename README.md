@@ -4,6 +4,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## 💻 Language 💻
 * Python 🐍
+* NodeJS 
 
 ## 🧔 Authors 🧔
 * [Federico Piscitelli](https://github.com/federicopiscitelli)
